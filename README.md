@@ -1,2 +1,2 @@
 # DSA
-Basic implementations of DSA Concepts in Python.
+Basic implementations of Data Structure & Algorithms Concepts in Python.
